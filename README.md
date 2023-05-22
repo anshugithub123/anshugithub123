@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anshu jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshu jha" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/anshu jha](https://www.linkedin.com/in/anshu-jha-7660ba232/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshu jha" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/anshualalanjha@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="anshualalanjha@gmail.com" height="30" width="40" /></a>
 <a href="https://fb.com/anshu jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anshu jha" height="30" width="40" /></a>
 <a href="https://instagram.com/anshulalanjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anshulalanjha" height="30" width="40" /></a>
