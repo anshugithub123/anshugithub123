@@ -15,9 +15,6 @@
 
 - ⚡ Fun fact **I am little bit funny**
 
-- <h3 align="left">My All Projects:</h3>
-- <a href="https://abrcloth.netlify.app/">E-Commerce Project</a>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="[https://linkedin.com/in/anshu jha](https://www.linkedin.com/in/anshu-jha-7660ba232/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshu jha" height="30" width="40" /></a>
@@ -36,3 +33,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshugithub123&show_icons=true&locale=en" alt="anshugithub123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshugithub123&" alt="anshugithub123" /></p>
+
+ <h3 align="left">My All Projects:</h3>
+- <a href="https://abrcloth.netlify.app/">E-Commerce Project</a>
+
