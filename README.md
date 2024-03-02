@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Car Rental Website**
+- 🔭 I’m currently working on **Car Rental App**
 
 - 🌱 I’m currently learning **React Native**
 
@@ -14,6 +14,7 @@
 - 📫 How to reach me **anshulalanjha@gamil.com**
 
 - ⚡ Fun fact **I am little bit funny**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,6 +36,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshugithub123&" alt="anshugithub123" /></p>
 
  <h3 align="left">My All Projects:</h3>
-- <a href="https://abrcloth.netlify.app/">E-Commerce Project</a>
+- <a href="https://abrcloth.netlify.app/">E-Commerce Project</a> <br />
 - <a href="https://fitclub-jim.netlify.app/">Fitclub-Jim</a>
 
