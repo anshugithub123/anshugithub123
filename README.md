@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **JavaScript, React.Js**
+- 💬 Ask me about **PYTHON, PYSPARK, SQL, DATABRICS, SNOWFFLAKE, AWS**
 
 - 📫 How to reach me **anshulalanjha@gamil.com**
 
